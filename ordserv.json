@@ -1,0 +1,26 @@
+{
+	"info": [
+		{
+			"dados": [
+				{
+					"text1": "Seguem algumas informações importantes!"
+				},
+				{
+					"text2": "Pediremos inicialmente poucos dados que posteriormente poderão ser completados no menu cadastro da empresa."
+				},
+				{
+					"text3": "Você terá direito a realizar 5 (Cinco) ordens de serviço gratuitamente, após consumi-las poderá comprar pacotes com quantidades que se adaptem ao seu consumo."
+				},
+				{
+					"text4": "Estes pacotes são disponibilizados em forma de créditos e não expiram, cada crédito equivale a uma ordem de serviço, e 4 (Quatro) fotos por ordem de serviço."
+				},
+				{
+					"text5": "Também é possível contratar planos mensais ilimitados que aumentam para 10 (Dez) fotos por ordem de serviço e liberam mais funcionalidades do aplicativo!"
+				},
+				{
+					"text6": "Fique tranquilo, seus dados serão guardados em um servidor e poderão ser sincronizados em todos os dispositivos logados!"
+				}
+			]
+		}
+	]
+}
